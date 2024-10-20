@@ -2,7 +2,7 @@
 import { Client, Account } from 'appwrite';
 
 export const API_ENDPOINT = 'https://cloud.appwrite.io/v1'
-export const PROJECT_ID = '670f48b40035eeadb5ec'
+export const PROJECT_ID = 'ur api id'
 
 const client = new Client()
     .setEndpoint(API_ENDPOINT) 
